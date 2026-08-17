@@ -23,28 +23,6 @@ The system uses TF-IDF and cosine similarity to find products that are similar t
 - FastAPI
 - Uvicorn
 
-## Project Structure
-
-ecommerce-recommender/
-│
-├── data/
-│   └── products.csv
-│
-├── model/
-│   └── recommender.py
-│
-├── database/
-│   └── database.py
-│
-├── api/
-│   └── main.py
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 ## How It Works
 
